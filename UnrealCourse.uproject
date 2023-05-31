@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{554EE3DF-470A-289E-4C8A-A495B5BC93E5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealCourse",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
